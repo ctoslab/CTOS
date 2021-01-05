@@ -1,9 +1,9 @@
 ## Welcome to cTOS Tool version 2.0
 This tool will grab victims on your RAT. it's very simple to use.
 
-<img src="Screenshots/cTOS.png" width=400 align="center">
+<img src="Screenshots/cTOS.png" width=600 align="center">
 
-<img src="Screenshots/RAT's.png" width=400 align="center">
+<img src="Screenshots/RAT's.png" width=600 align="center">
 
 ### ❗ What is this ?
 
